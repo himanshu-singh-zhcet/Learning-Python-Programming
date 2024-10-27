@@ -1,0 +1,22 @@
+l1=[10,20,30,40,50,60]
+l1.append(70)
+print(l1)
+l1.insert(3,40)
+print(l1)
+l1.remove(40)
+print(l1)
+x = l1.pop()  # this function returns that removed value
+print(l1)
+print(x)
+l2=[10,20,30]
+print(l2)
+l2.clear()
+print(l2)
+l1.reverse()
+print(l1)
+y=l1.index(30)
+print(y)
+l3=[10,40,50,60,60,40,30,50]
+print(l3.count(50))
+l3.sort()
+print(l3)

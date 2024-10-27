@@ -1,0 +1,9 @@
+2023-10-18 10:33:30,659 this is my info logging
+2023-10-18 10:33:30,659 this is my error message 
+2023-10-18 10:33:30,659 this is my critcal message
+2023-10-18 10:37:57,837 root INFO this is my info logging
+2023-10-18 10:37:57,837 root ERROR this is my error message 
+2023-10-18 10:37:57,837 root CRITICAL this is my critcal message
+2023-10-18 10:38:24,335 root INFO this is my info logging
+2023-10-18 10:38:24,335 root ERROR this is my error message 
+2023-10-18 10:38:24,347 root CRITICAL this is my critcal message

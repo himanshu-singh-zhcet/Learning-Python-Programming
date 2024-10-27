@@ -1,0 +1,6 @@
+t1=(6,3,8,6,7,2,5,9,)
+print(len(t1))
+print(max(t1))
+print(min(t1))
+print(sum(t1))
+print(sorted(t1))
